@@ -1,0 +1,10 @@
+.ulListImg{
+    display: flex;
+    list-style-type: none; 
+    justify-content: space-around;
+    align-items: center;
+    margin: 0;
+   img{
+    border-radius: 50%;
+   }
+}
